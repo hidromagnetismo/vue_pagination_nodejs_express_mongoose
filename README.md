@@ -4,6 +4,9 @@
 NodeJS Mongoose Express VueJS Pagination
 
 
+## Faker, connection MongoDB, routes, models, etc...
+
+![Screenshot_2021-02-27_07-42-38](https://user-images.githubusercontent.com/6284869/109381039-cd213100-78cf-11eb-9c15-e83bec353f9a.png)
 
 
 
