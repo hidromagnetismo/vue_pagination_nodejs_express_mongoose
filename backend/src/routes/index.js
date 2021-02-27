@@ -18,8 +18,9 @@ router.get('/create', async (req, res) => {
     res.send('100 Records created');
 });
 
-router.get('/articles', (req, res) => {
-
+router.get('/articles', async (req, res) => {
+    const articles = await Article.find();
+    res.json(articles);
 });
 
 module.exports = router;
